@@ -1,44 +1,62 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Rajan Kuwar**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Added filtering functions for unfunded and funded games.
+* [x] Included custom styling improvements to enhance the site's appearance.
 
-## Video Walkthrough
+## GIF website walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Screenshots
 
-<!-- Replace this with whatever GIF tool you used! -->
+- ### **1. Introduction & Background Information**
+* This GIF explains the company’s mission and how many games remain unfunded.
+![Introduction & Background](https://imgur.com/Sj2Xoy0)
+
+### **2. Stats Section**
+* Displays the total contributions, dollars raised, and the top two most funded games.
+![Stats Section](https://imgur.com/a/exsgk0H)
+
+### **3. Our Games Section**
+* Initially displays all games funded by Sea Monster Crowdfunding.
+![Our Games Section](https://imgur.com/a/40JqNoI)
+
+### **4. Filtering Games**
+* Three buttons allow filtering between unfunded games, funded games, or all games.
+![Filtering Games](https://imgur.com/a/0RKwq6n)
+
+
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Took screenshot using snipping tools.
+Then converted to .gif using pixillion converter.
+Made a link using  Imgur.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Encountered an issue with redeclaring block-scoped variables which was resolved by renaming variables where necessary.
+- Learned how to use array methods like reduce and filter to dynamically display game statistics.
+- Destructuring and the spread operator made selecting top games straightforward.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] Rajan Kuwar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
