@@ -28,20 +28,19 @@ Here's a walkthrough of implemented features:
 
 - ### **1. Introduction & Background Information**
 * This GIF explains the company’s mission and how many games remain unfunded.
-![Introduction & Background](https://imgur.com/Sj2Xoy0)
+![Introduction & Background](https://i.imgur.com/WwpBZS8.gif)
 
 ### **2. Stats Section**
 * Displays the total contributions, dollars raised, and the top two most funded games.
-![Stats Section](https://imgur.com/a/exsgk0H)
+![Stats Section](https://i.imgur.com/SKcweZu.gif)
 
 ### **3. Our Games Section**
 * Initially displays all games funded by Sea Monster Crowdfunding.
-![Our Games Section](https://imgur.com/a/40JqNoI)
+![Our Games Section](https://i.imgur.com/dPk4rMO.gif)
 
 ### **4. Filtering Games**
 * Three buttons allow filtering between unfunded games, funded games, or all games.
-![Filtering Games](https://imgur.com/a/0RKwq6n)
-
+![Filtering Games](https://i.imgur.com/2BUbmNQ.gif)
 
 GIF created with ...  
 Took screenshot using snipping tools.
