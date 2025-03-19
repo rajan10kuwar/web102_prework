@@ -23,6 +23,8 @@ The following **optional** features are implemented:
 ## GIF website walkthrough
 
 Here's a walkthrough of implemented features:
+<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with [LiceCap] (http://www.cockos.com/licecap/).
 
 ## Screenshots
 
